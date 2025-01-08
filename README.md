@@ -1,6 +1,6 @@
 
 # Quantum AI ChatBot
-# Live Demo - [Click Heare](https://quantumairahul.netlify.app/)
+# Live Demo - [Click Here](https://quantumairahul.netlify.app/)
 
 
 This repository contains the Quantum AI ChatBot, a React-based project developed to provide an intelligent and dynamic chatbot experience. It leverages advanced AI and modern frontend technologies to deliver a seamless user experience.
